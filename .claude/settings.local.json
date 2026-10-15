@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git stash *)",
+      "Bash(node -c /home/anorak/MacTop/prefs.js)"
+    ]
+  }
+}
